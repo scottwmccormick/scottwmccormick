@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Scott McCormick
-- 👀 I’m interested in ... Cloud DevOps learning new Tech
+- 👀 I’m interested in ... On Premises and Cloud Infrastructure learning new Tech
 - 🌱 I’m currently learning ...Robot Framework , Python  and all things Azure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Twitter @scottwmcc
